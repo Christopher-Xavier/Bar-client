@@ -7,14 +7,21 @@
 Username: dunder
 password: password2
 
+[Live](https://linus-ten.now.sh/)
+
+## DEMO Account
+
+Username: dunder
+password: password2
+
 ## Summary
 
-Linus is a personal bartender for your home. With Linus you can add your favorite and current spirits in your liquor cabinet to your digital cabinet, and Linus will show you what cocktails you can make with your spirits and how! You will also be able to search for recipes by spirit type and make a shortlist of your favorite ones to try later.
+Linus is a personal bartender for your home. With Linus you can add your favorite and current spirits in your liquor cabinet to your digital cabinet, and Linus will show you what cocktails you can make with your spirits and how! You will also be able to search for recipes by spirit type and make a shortlist of your favorite ones to try later. Its an perfect app that allows users to come up or look up that favoreite drink they always wanted to try. You sign up and basically put open the cabinet and search for your favorite mixed drinks and enjoy, Peferct for Bartenders
 
 ### Your Cabinet
 
-Once Logged in you'll be sent your Cabinet, this is where you'll add and store your Spirits. From here you can access your entire favorite recipes list, as well as a shortlist below where it shows you which favorites you can make based off of the spirits currently in your cabinet.
-
+Once Logged in you'll be sent your Cabinet, this is where you'll look up your favorite  Spirits. From here you can access your entire favorite recipes list, as well as a shortlist below where it shows you which favorites you can make based off of the spirits currently in your cabinet. Share with fr.iends and simple be the Bartender of the party. Sign up and search the cabient list and mixit up
+to run npm Install and then npm start.
 ![Login View](./READMEimg/Login-view.png)
 ![Cabinet View](./READMEimg/Cabinet-view.png)
 
