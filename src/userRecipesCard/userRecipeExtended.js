@@ -33,7 +33,7 @@ class UserRecipeExtended extends Component {
     this.props.history.goBack();
   };
 
-  handleDelete = () => {
+  handleDeletea = () => {
     const user_id = TokenService.getUserId();
     const { id } = this.props.match.params;
 
