@@ -15,7 +15,9 @@ Linus is a personal bartender for your home. With Linus you can add your favorit
 
 Once Logged in you'll be sent your Cabinet, this is where you'll look up your favorite  Spirits. From here you can access your entire favorite recipes list, as well as a shortlist below where it shows you which favorites you can make based off of the spirits currently in your cabinet. Share with fr.iends and simple be the Bartender of the party. Sign up and search the cabient list and mixit up
 to run npm Install and then npm start.
+ 
 ![Login View](./READMEimg/Login-view.png)
+
 ![Cabinet View](./READMEimg/Cabinet-view.png)
 
 ### Searching for Recipes
@@ -24,7 +26,7 @@ Once you add some Spirits to your cabinet it's time to look for some recipes to 
 
 ![Recipes View](./READMEimg/Recipes-view.png)
 
-After finding a recipe you would like, you can follow the instructions to buyild it, or save it ti your favorites to make later.
+After finding a recipe you would like, you can follow the instructions to build it, or save it ti your favorites to make later.
 
 ![Recipe View](./READMEimg/Recipe-view.png)
 
