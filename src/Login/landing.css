@@ -19,7 +19,7 @@
 }
 
 .tab button:hover {
-  background-color: #DCF2F0;
+  background-color: rgba(66, 96, 233, 0)
 }
 
 .tab button.active {

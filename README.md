@@ -48,7 +48,3 @@ If you're interested in making some cocktails of your own and want a place to ke
 - Javascript
 - Node
 - PostgreSQL
-
-## API
-
-[Link](https://github.com/thinkful-ei-jaguar/TaylorP-firstCapstone-server) to API GitHub
