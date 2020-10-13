@@ -1,5 +1,5 @@
 # Linus
-Screen Shot 2020-10-12 at 10.17.47 PM.png
+<img src="Screen Shot 2020-10-12 at 10.17.47 PM.png" alt landing page"/></a>
 
 
 [Live](https://linus-ten.now.sh/)
