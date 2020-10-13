@@ -1,4 +1,6 @@
 # Linus
+Screen Shot 2020-10-12 at 10.17.47 PM.png
+
 
 [Live](https://linus-ten.now.sh/)
 
