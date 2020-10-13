@@ -1,7 +1,4 @@
-# Linus
-
-<a href="Screen Shot 2020-10-12 at 10.17.47 PM.png" alt="landing page"/></a>
-
+## LINUS
 
 [Live](https://linus-ten.now.sh/)
 
@@ -18,7 +15,7 @@ Linus is a personal bartender for your home. With Linus you can add your favorit
 
 Once Logged in you'll be sent your Cabinet, this is where you'll look up your favorite  Spirits. From here you can access your entire favorite recipes list, as well as a shortlist below where it shows you which favorites you can make based off of the spirits currently in your cabinet. Share with fr.iends and simple be the Bartender of the party. Sign up and search the cabient list and mixit up
 to run npm Install and then npm start.
- 
+n
 ![Login View](./READMEimg/Login-view.png)
 
 ![Cabinet View](./READMEimg/Cabinet-view.png)
